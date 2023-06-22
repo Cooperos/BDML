@@ -1,0 +1,12 @@
+jupyter
+notebook
+matplotlib
+scikit-learn
+scipy
+tensorflow
+opencv-python
+SQLAlchemy
+beautifulsoup4
+plotly
+PyPDF2
+
